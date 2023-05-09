@@ -1,4 +1,4 @@
-# Kullanıcıdan 4 soru al, sorunun dogru cevabını al ve kaydet. Daha sonra kullanıcıya soruları göster ve yanitlari al. En son buna göre puan hesapla ve göster
+# Kullanıcıdan 4 soru al, sorunun dogru cevabını al ve kaydet. Daha sonra kullanıcıya soruları göster ve yanitlari al. En son buna göre puan hesapla ve göster.
 
 sorular = []
 siklar = []
